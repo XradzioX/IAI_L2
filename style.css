@@ -1,1 +1,12 @@
 body {background:lawngreen;}
+
+
+ul li{
+    display: inline;
+
+}
+
+a{    transition: all 5s;
+    padding:3px;
+}
+a:hover { background-color: white, color: blueviolet }
